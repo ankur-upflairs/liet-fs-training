@@ -8,3 +8,39 @@
 .content-section{
     display: flex;
 }
+.content{
+    padding: 10px;
+}
+.sidebar1{
+    padding: 10px;
+    background-color: rgb(176, 232, 176);
+    
+}
+.sidebar2{
+    padding: 10px;
+    background-color: rgb(134, 210, 134);
+
+}
+.content div{
+   
+}
+.sidebar1 div{
+    width: 200px;
+}
+.sidebar2{
+    
+}
+.sidebar2 div{
+    width: 150px;
+    
+}
+.footer{
+    height: 60px;
+    background-color: rgb(134, 210, 134);
+    text-align: center;
+    line-height: 60px;
+
+}
+
+
+
