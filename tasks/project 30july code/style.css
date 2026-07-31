@@ -1,0 +1,30 @@
+.navbar{
+    width: 90%;
+    height: 50px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+}
+.links{
+    display: flex;
+    list-style: none;
+    column-gap: 30px;
+}
+.links a{
+    text-decoration: none;
+}
+.links a:link{
+    font-size: 14px;
+    color: darkgray;
+}
+.links a:visited{
+    color: rgb(71, 70, 70);
+}
+.brand2{
+    color: rgb(169, 119, 44);
+}
+.links button{
+    padding: 4px 6px;
+    background-color: transparent;
+    border: 1px solid darkgray;
+}
